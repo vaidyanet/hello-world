@@ -8,6 +8,7 @@
     <p> My Fourth Commit </p>
     <p> My fifth Commit </p>
     <p> My sixth Commit </p>
+    <p> My seventh Commit </p>
     
     <hr>
      
